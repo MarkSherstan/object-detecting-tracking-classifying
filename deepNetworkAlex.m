@@ -1,6 +1,6 @@
 %% Appendix A: Transfer Learning with AlexNet for Object Recognition
 % MecE 467 Final Project April 2018
-% Mark Sherstan - 1392849
+% Mark Sherstan
 
 %% Set Up
 % The following program is a modified version of MATLAB's AlexNet Example and
