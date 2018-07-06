@@ -1,6 +1,6 @@
 %% Appendix B: Webcam Object Detection, Tracking and Classification Using a Kalman Filter and Convolutional Neural Network
 % MecE 467 Final Project April 2018
-% Mark Sherstan - 1392849
+% Mark Sherstan
 
 %% Track a Single Object Using Kalman Filter and Webcam
 % The following program is a heavily modified version of MATLAB's "Using Kalman
